@@ -1,0 +1,39 @@
+[
+    {
+        "remote": "ak",
+        "repository": "android_device_samsung_t0lte",
+        "target_path": "device/samsung/t0lte",
+        "revision": "lollipop"
+    },
+    {
+        "remote": "ak",
+        "repository": "android_device_samsung_smdk4412-common",
+        "target_path": "device/samsung/smdk4412-common",
+        "revision": "lollipop"
+    },
+    {
+        "remote": "ak",
+        "repository": "android_device_samsung_smdk4412-qcom-common",
+        "target_path": "device/samsung/smdk4412-qcom-common",
+        "revision": "lollipop"
+    },
+    {
+        "remote": "ak",
+        "repository": "android_kernel_samsung_smdk4412",
+        "target_path": "kernel/samsung/smdk4412",
+        "revision": "lollipop"
+    },
+    {
+        "remote": "ak",
+        "repository": "android_hardware_samsung",
+        "target_path": "hardware/samsung",
+        "revision": "lollipop"
+    }
+    {
+        "remote": "github",
+        "repository": "TheMuppets/android_hardware_samsung",
+        "target_path": "hardware/samsung",
+        "revision": "cm-12.0"
+    }
+
+]
